@@ -8,7 +8,7 @@ html {
     scroll-behavior: smooth;
 }
  body {
-    background-image: url("../img/back2.jpg");
+    background-image: url("back2.jpg");
     background-size: cover;
 }
 #container {
@@ -157,7 +157,7 @@ a {
  div#hero {
     width: 100%;
     height: 500px;
-    background-image: url("../img/1.jpg"); 
+    background-image: url("1.jpg"); 
     background-size: cover;
     position: relative;
 }
@@ -267,27 +267,27 @@ div#purpose> p {
     height: 100%;
 }
 #purpose .box6 .front , #purpose .box6 .back{
-    background-image: url(../img/Photoshop.jpg);
+    background-image: url(Photoshop.jpg);
     background-size: cover;
 }
 #purpose .box5 .front , #purpose .box5 .back{
-    background-image: url(../img/Draw.jpg);
+    background-image: url(Draw.jpg);
     background-size: cover;
 }
 #purpose .box4 .front , #purpose .box4  .back{
-    background-image: url(../img/max.jpg);
+    background-image: url(max.jpg);
     background-size: cover;
 }
 #purpose .box3 .front , #purpose .box3  .back{
-    background-image: url(../img/autocade.jpg);
+    background-image: url(autocade.jpg);
     background-size: cover;
 }
 #purpose .box2 .front , #purpose .box2  .back{
-    background-image: url(../img/HALA.jpg);
+    background-image: url(HALA.jpg);
     background-size: cover;
 }
 #purpose .box1 .front , #purpose .box1  .back{
-    background-image: url(../img/Rhino.jpg);
+    background-image: url(Rhino.jpg);
     background-size: cover;
 }
 #purpose .wrap {

@@ -192,16 +192,16 @@ input :focus , input:hover{
     border-radius: 15px;
 }
 .connect .img1 {
-    background-image: url("../img/connect1.jpg");
+    background-image: url("connect1.jpg");
     background-size: cover;
     transform: translateY(-50px);
 }
 .connect .img2 {
-    background-image: url("../img/connect2.jpg");
+    background-image: url("connect2.jpg");
     background-size: cover;
 }
 .connect .img3 {
-    background-image: url("../img/connect3.jpg");
+    background-image: url("connect3.jpg");
     background-size: cover;
     transform: translateY(-50px);
 }
